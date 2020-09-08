@@ -12,3 +12,6 @@
 minilight-c
 minilightmerge-c
 minilighttone-c
+
+.debug
+.release
